@@ -12,3 +12,17 @@ C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debu
 C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
 C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
 C:\Users\acopr\OneDrive\Desktop\New folder\GIT\Store\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.deps.json
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.runtimeconfig.json
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.dll
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\bin\Debug\net6.0\Store.Core.pdb
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.AssemblyReference.cache
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfoInputs.cache
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.AssemblyInfo.cs
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.csproj.CoreCompileInputs.cache
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.dll
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\refint\Store.Core.dll
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.pdb
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\Store.Core.genruntimeconfig.cache
+C:\Users\MILICA\Desktop\GIT\Shop\Store-main\Backend\Store.Core\obj\Debug\net6.0\ref\Store.Core.dll

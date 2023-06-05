@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj": {}
+    "C:\\Users\\MILICA\\Desktop\\GIT\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj": {
+    "C:\\Users\\MILICA\\Desktop\\GIT\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj",
+        "projectUniqueName": "C:\\Users\\MILICA\\Desktop\\GIT\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj",
         "projectName": "Store.Core",
-        "projectPath": "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj",
-        "packagesPath": "C:\\Users\\WinX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\obj\\",
+        "projectPath": "C:\\Users\\MILICA\\Desktop\\GIT\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj",
+        "packagesPath": "C:\\Users\\MILICA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MILICA\\Desktop\\GIT\\Shop\\Store-main\\Backend\\Store.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\WinX\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MILICA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
