@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acopr\\OneDrive\\Desktop\\New folder\\GIT\\Store\\Backend\\Store.Core\\Store.Core.csproj": {}
+    "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acopr\\OneDrive\\Desktop\\New folder\\GIT\\Store\\Backend\\Store.Core\\Store.Core.csproj": {
+    "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acopr\\OneDrive\\Desktop\\New folder\\GIT\\Store\\Backend\\Store.Core\\Store.Core.csproj",
+        "projectUniqueName": "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj",
         "projectName": "Store.Core",
-        "projectPath": "C:\\Users\\acopr\\OneDrive\\Desktop\\New folder\\GIT\\Store\\Backend\\Store.Core\\Store.Core.csproj",
-        "packagesPath": "C:\\Users\\acopr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acopr\\OneDrive\\Desktop\\New folder\\GIT\\Store\\Backend\\Store.Core\\obj\\",
+        "projectPath": "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\Store.Core.csproj",
+        "packagesPath": "C:\\Users\\WinX\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\WinX\\Desktop\\Git\\Web2\\Shop\\Store-main\\Backend\\Store.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\acopr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\WinX\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\Microsoft SDKs\\Azure\\.NET SDK\\v2.9\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -83,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
